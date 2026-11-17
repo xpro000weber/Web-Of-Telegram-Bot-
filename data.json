@@ -1,0 +1,44 @@
+{
+  "servers": {
+    "Test": {
+      "name": "Test",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-06T21:54:55.798938"
+    },
+    "Zx-jihad": {
+      "name": "Zx-jihad",
+      "owner": "jihad224",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-07T14:33:06.197771"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-11-06T20:13:19.281979",
+      "password_hash": "44838beb321594a92f1029c2b711e681aeed749c1253fc302c4dd681b5e30b77"
+    },
+    "jihad224": {
+      "joined": "2026-11-07T14:32:59.699059",
+      "password_hash": "44838beb321594a92f1029c2b711e681aeed749c1253fc302c4dd681b5e30b77"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#f04452",
+    "normal_password": "Rixor2",
+    "site_name": "ZX AI FILE",
+    "auto_restart_interval": 300
+  }
+}
